@@ -1,7 +1,7 @@
-## Personal Website (https://mishaberrien.com/)
+## Personal Website (https://amirkazi.com/)
 This project is my personal website. The exact template can be found [here](https://github.com/volny/creative-theme-jekyll).
 
-#### -- Project Status: [Completed]
+#### -- Project Status: In progress
 
 ## Getting Started
 
