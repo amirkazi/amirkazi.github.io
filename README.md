@@ -1,4 +1,4 @@
-## Personal Website (https://amirkazi.com/)
+## Personal Website 
 This project is my personal website. The exact template can be found [here](https://github.com/volny/creative-theme-jekyll).
 
 #### -- Project Status: In progress
